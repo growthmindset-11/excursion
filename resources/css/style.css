@@ -4,16 +4,14 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/* HEAD */
+
 .header--main {
     font-weight: normal;
     font-size: 50px;
     color: white;
 }
 
-.link--cta {
-    color: aquamarine;
-    font-size: 16px;
-}
 
 .header--sub {
     font-weight: 300;
@@ -26,6 +24,17 @@ body {
     font-size: 21px;
     color:gray;
 }
+
+
+
+ /* LINKS */
+
+ .link--cta {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+/* FOOTER */
 
 .copyright {
     font-weight: normal;
